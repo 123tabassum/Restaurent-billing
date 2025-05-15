@@ -1,3 +1,4 @@
-name,prize
-pizaa,10/-
-burger,20/-
+name,prize,category,available
+pizaa,10/-,fast-food,yes
+burger,20/-,fast-food,no
+fries,30/-,starter,yes

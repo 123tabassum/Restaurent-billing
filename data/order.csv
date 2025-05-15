@@ -1,3 +1,8 @@
-date,item,quantity,total
-14/5/2025,pizza,3,30
-14/5/2025,burger,4,80
+user,item,quantity,datetime
+Tabassum,pizza,3,13/4/2025 7:30PM
+Tahaseen,burger,2,13/4/2025 8:45PM
+Shoyab,freshjuice,1,14/4/2025 7:10PM
+Zahid,pastry,2,14/4/2025 6:25PM
+Zakeer,Noodles,1,14/4/2025 7:25PM
+Zuhair,Biryani,1,14/4/2025 8:30PM
+Tabassum,Biryani,1,14/4/2025 9:15PM 
